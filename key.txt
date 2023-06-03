@@ -1,0 +1,11 @@
+What is the capital of France?: b
+Who painted the Mona Lisa?: c
+What is the symbol for the chemical element gold?: a
+What is the largest planet in our solar system?: b
+What year was the United States Declaration of Independence adopted?: a
+What is the largest ocean in the world?: c
+Who wrote the novel "Pride and Prejudice"?: a
+What is the symbol for the chemical element iron?: b
+Which planet is known as the "Red Planet"?: a
+What is the tallest mountain in the world?: b
+
